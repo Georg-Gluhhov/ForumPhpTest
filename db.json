@@ -8,7 +8,16 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "Oleg Kolginin",
+      "username": "OKeg",
+      "email": "okeg.gmail.com", 
+      "address":{"street": "Lomberg", "suite": "LB 13", "city": "17", "zipcode": "5293"},
+      "geo":{"lat": "-35.543", "lng": "25.425"},
+      "phone": "58932863",
+      "website": "oleg.org"
+    } 
+  ],
 }
