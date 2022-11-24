@@ -60,7 +60,12 @@
       "address":{"street": "Eras", "suite": "Ls 13", "city": "Tew", "zipcode": "57335"},
       "geo":{"lat": "-55.543", "lng": "262.425"},
       "phone": "6346364",
-      "website": "Matvei.org"
+      "website": "Matvei.org",
+      "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"}
+    }
     } 
   ],
     "profile": {
