@@ -94,6 +94,20 @@
       "catchPhrase": "-",
       "bs": "-"}
     },
+                {
+      "id": 5,
+      "name": "Gabriel Kilber",
+      "username": "Gabrielkil",
+      "email": "Gabrielkil124325.proton.me", 
+      "address":{"street": "-", "suite": "-", "city": "-", "zipcode": "-"},
+      "geo":{"lat": "-", "lng": "-"},
+      "phone": "-",
+      "website": "Gabrielkil.org",
+      "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"}
+    },
             {
       "id": 3,
       "name": "Petr Vasa",
