@@ -15,8 +15,8 @@
   {
     "userId": 1,
     "id": 3,
-    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    "title": "Хотел встать, но резко заболела спина",
+    "body": "Сидел короче на диване, резко встал и вдруг заболела спина в облосте поясници, потом лег обратно на диван, поспал и спина прошла. Это нормально?"
   },
   {
     "userId": 2,
@@ -33,9 +33,23 @@
     "email": "antonov@gardner.biz",
     "body": "Сходи к врачу"
   },
+      {
+    "postId": 3,
+    "id": 2,
+    "name": "Medic",
+    "email": "Medic@gmail.org",
+    "body": "Попробуй делать упражнения растяжки спины, их можно посмотреть в интернете. Если боли продолжаться советую сходить к врачу"
+  },
+      {
+    "postId": 3,
+    "id": 3,
+    "name": "ProDoctor",
+    "email": "ProDoctor@sydney.com",
+    "body": "тебе надо поспать"
+  },
   {
     "postId": 2,
-    "id": 2,
+    "id": 4,
     "name": "ProDoctor",
     "email": "ProDoctor@sydney.com",
     "body": "незнаю"
