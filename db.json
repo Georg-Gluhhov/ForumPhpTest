@@ -121,6 +121,19 @@
       "name": "-",
       "catchPhrase": "-",
       "bs": "-"}
+    },   
+    "id": 6,
+      "name": "Maximilian Fronch",
+      "username": "XamFro12",
+      "email": "Max30368Fra.mail.ru", 
+      "address":{"street": "-", "suite": "-", "city": "-", "zipcode": "-"},
+      "geo":{"lat": "-", "lng": "-"},
+      "phone": "-",
+      "website": "-",
+      "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"}
     },
             {
       "id": 3,
