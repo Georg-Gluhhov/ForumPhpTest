@@ -108,6 +108,20 @@
       "catchPhrase": "-",
       "bs": "-"}
     },
+                    {
+      "id": 6,
+      "name": "Mirak Olegovich",
+      "username": "Oleg35",
+      "email": "Oleg1998Krutoi.mail.ru", 
+      "address":{"street": "-", "suite": "-", "city": "-", "zipcode": "-"},
+      "geo":{"lat": "-", "lng": "-"},
+      "phone": "-",
+      "website": "-",
+      "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"}
+    },
             {
       "id": 3,
       "name": "Petr Vasa",
