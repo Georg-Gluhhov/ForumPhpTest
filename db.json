@@ -22,7 +22,7 @@
     "userId": 2,
     "id": 4,
     "title": "Сопли и кашель второй месяц",
-    "body": "сопли и кашель второй месяц, как какать?"
+    "body": "сопли и кашель второй месяц, почему?"
   }
   ],
   "comments": [
@@ -79,6 +79,20 @@
       "name": "Romaguera-Crona",
       "catchPhrase": "Multi-layered client-server neural-net",
       "bs": "harness real-time e-markets"}
+    },
+            {
+      "id": 4,
+      "name": "Willy Chin",
+      "username": "ChillyWilly",
+      "email": "ChillyWilly.gmail.com", 
+      "address":{"street": "Restvam", "suite": "546313", "city": "Gunbarno", "zipcode": "3632"},
+      "geo":{"lat": "-654.543", "lng": "26.695"},
+      "phone": "53252663",
+      "website": "WillyChin.org",
+      "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"}
     },
             {
       "id": 3,
